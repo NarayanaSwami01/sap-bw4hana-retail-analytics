@@ -1,0 +1,11 @@
+Store_ID,Store_Name,City,State,Region,Store_Type
+S001,Hyderabad Store,Hyderabad,Telangana,South,Mall
+S002,Bengaluru Store,Bengaluru,Karnataka,South,Mall
+S003,Delhi Store,Delhi,Delhi,North,Standalone
+S004,Mumbai Store,Mumbai,Maharashtra,West,Mall
+S005,Kolkata Store,Kolkata,West Bengal,East,Standalone
+S006,Chennai Store,Chennai,Tamil Nadu,South,Franchise
+S007,Ahmedabad Store,Ahmedabad,Gujarat,West,Mall
+S008,Lucknow Store,Lucknow,Uttar Pradesh,North,Standalone
+S009,Bhubaneswar Store,Bhubaneswar,Odisha,East,Franchise
+S010,Vijayawada Store,Vijayawada,Andhra Pradesh,South,Franchise

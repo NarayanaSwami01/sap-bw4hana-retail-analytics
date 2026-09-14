@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Supplier,Unit_Cost,Unit_Price
+P0001,Laptop,Electronics,Laptop,Apple,Supplier_14,1021,1383.98
+P0002,Mobile,Furniture,Mobile,IKEA,Supplier_8,1405,1919.77
+P0003,Chair,Home Appliances,Chair,Adidas,Supplier_2,1383,1858.13
+P0004,Desk,Fashion,Desk,LG,Supplier_6,685,918.38
+P0005,Monitor,Sports,Monitor,Samsung,Supplier_4,1206,1505.51
+P0006,Keyboard,Books,Keyboard,Apple,Supplier_2,884,1428.87
+P0007,Mixer,Accessories,Mixer,IKEA,Supplier_8,949,1370.89
+P0008,Microwave,Groceries,Microwave,Nike,Supplier_7,951,1176.73
+P0009,Shoes,Electronics,Shoes,Dell,Supplier_14,1296,2290.86
+P0010,Watch,Furniture,Watch,Dell,Supplier_6,1279,1826.7
+P0011,Football,Home Appliances,Football,Nike,Supplier_9,711,1174.63
+P0012,Novel,Fashion,Novel,Apple,Supplier_8,1218,2046.14
+P0013,Headphones,Sports,Headphones,Adidas,Supplier_1,549,748.7
+P0014,Bag,Books,Bag,Nike,Supplier_12,896,1255.9
+P0015,Rice,Accessories,Rice,Samsung,Supplier_10,438,746.48
+P0016,Tea,Groceries,Tea,Nike,Supplier_10,1193,1450.9
+P0017,Coffee,Electronics,Coffee,HP,Supplier_11,1255,2005.24
+P0018,USB,Furniture,USB,Adidas,Supplier_3,977,1251.95
+P0019,Fan,Home Appliances,Fan,LG,Supplier_4,202,273.93
+P0020,AC,Fashion,AC,Nike,Supplier_5,1031,1439.39
+P0021,Table,Sports,Table,HP,Supplier_8,963,1301.36
+P0022,Sofa,Books,Sofa,Dell,Supplier_6,139,229.27
+P0023,Cycle,Accessories,Cycle,Dell,Supplier_13,559,888.86
+P0024,Guide,Groceries,Guide,Apple,Supplier_14,163,288.47
+P0025,Mouse,Electronics,Mouse,Apple,Supplier_3,141,221.76
+P0026,Cabinet,Furniture,Cabinet,Philips,Supplier_4,1069,1712.19
+P0027,Oil,Home Appliances,Oil,LG,Supplier_3,1052,1703.9
+P0028,Sugar,Fashion,Sugar,HP,Supplier_13,1340,2096.23
+P0029,Jacket,Sports,Jacket,HP,Supplier_10,435,773.79
+P0030,Jeans,Books,Jeans,Philips,Supplier_11,152,267.11
+P0031,PowerBank,Accessories,PowerBank,Apple,Supplier_2,868,1248.18
+P0032,Charger,Groceries,Charger,Apple,Supplier_2,1312,2118.05
+P0033,Notebook,Electronics,Notebook,Philips,Supplier_13,717,1226.2
+P0034,Dictionary,Furniture,Dictionary,Philips,Supplier_13,347,582.17
+P0035,Magazine,Home Appliances,Magazine,Nike,Supplier_11,184,259.13
+P0036,Refrigerator,Fashion,Refrigerator,LG,Supplier_1,858,1065.1
+P0037,Bat,Sports,Bat,HP,Supplier_7,960,1625.66
+P0038,YogaMat,Books,YogaMat,Adidas,Supplier_12,841,1329.92
+P0039,Dumbbell,Accessories,Dumbbell,IKEA,Supplier_11,413,603.51
+P0040,TV,Groceries,TV,IKEA,Supplier_13,653,1024.91
+P0041,Printer,Electronics,Printer,Philips,Supplier_5,1090,1612.03
+P0042,Camera,Furniture,Camera,HP,Supplier_5,760,1300.38
+P0043,Speaker,Home Appliances,Speaker,Adidas,Supplier_10,1023,1377.28
+P0044,Bottle,Fashion,Bottle,LG,Supplier_1,1349,2159.63
+P0045,Shelf,Sports,Shelf,Samsung,Supplier_8,1112,1902.16
+P0046,Lamp,Books,Lamp,Sony,Supplier_6,534,754.49
+P0047,Router,Accessories,Router,Sony,Supplier_9,672,1161.35
+P0048,SSD,Groceries,SSD,Apple,Supplier_2,120,181.2
+P0049,HDD,Electronics,HDD,Adidas,Supplier_9,594,969.43
+P0050,Tablet,Furniture,Tablet,Adidas,Supplier_8,592,955.7
